@@ -1,0 +1,25 @@
+{
+	"name": "activemq",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/jccomputing/pack-activemq",
+	"author": "Jean-Claude Computing",
+	"description": "Checks various ActiveMQ metrics via jolokia and jmx4perl",
+	"contributors": [
+          {
+                "name": "Jean-Claude Computing",
+                "email": "jeanclaude.computing@gmail.com"
+          }
+	],
+	"repository": "https://github.com/jccomputing/pack-activemq",
+	"keywords": [
+	  "pack",
+	  "activemq",
+	  "jolokia",
+	  "jmx4perl"
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
